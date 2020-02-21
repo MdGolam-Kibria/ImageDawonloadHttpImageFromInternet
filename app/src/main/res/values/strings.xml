@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">dawonloadHttpImageFromInternet</string>
+    <string-array name="link_item">
+        <item>http://www.hyperlinkcode.com/images/sample-image.jpg</item>
+        <item>http://www.hyperlinkcode.com/images/sample-image.jpg</item>
+        <item>http://www.hyperlinkcode.com/images/sample-image.jpg</item>
+        <item>http://www.hyperlinkcode.com/images/sample-image.jpg</item>
+        <item>http://www.hyperlinkcode.com/images/sample-image.jpg</item>
+        <item>http://www.hyperlinkcode.com/images/sample-image.jpg</item>
+        <item>http://www.hyperlinkcode.com/images/sample-image.jpg</item>
+        <item>http://www.hyperlinkcode.com/images/sample-image.jpg</item>
+        <item>http://www.hyperlinkcode.com/images/sample-image.jpg</item>
+        <item>http://www.hyperlinkcode.com/images/sample-image.jpg</item>
+        <item>http://www.hyperlinkcode.com/images/sample-image.jpg</item>
+    </string-array>
+</resources>
